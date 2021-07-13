@@ -4,4 +4,4 @@ Documentación del proyecto:
 - Trabajo redactado
 - Curso Minecraft Education Edition
 - Resultados de las actividades realizadas por los grupos
-- Imagenes
+- Imágenes utilizadas
